@@ -31,7 +31,6 @@ def hello():
     tt = []
     for trend in trends[0]["trends"]:
         tt.append("<br>"+trend["name"])
-        print(trend["name"]).strip("#")
 
     return "<h1>TRABALHO DE CLOUD 44BDT</h1><h3>AWS CODE PIPELINE - ELASTIC BEANSTALK</h3><p>Esta aplicacao lista os Trending Topics do Twitter a cada reload da pagina</p>"+ '\n'.join(tt)
 
