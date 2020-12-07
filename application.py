@@ -14,7 +14,7 @@ consumer_key = 'hopVGo63q2B1HFw1eGy8h23nZ'
 consumer_secret = 'mpgx75J0UFhCd5c9GSS0VmShoUAc2IIt9RF0goXrn1KXcFWLe6'
 access_token = '344908066-rdePMLqxhXMcv932bottLSZnJ3ALDJgbl6UhyHZK'
 access_token_secret = 'dMwqHfUPFarhLJBbTLavRbpNBqCEA34YTX2dv5F0eJjb6'
-
+sleep_on_rate_limit=True
 g = []
 
  
