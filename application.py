@@ -5,7 +5,7 @@ import tweepy
 import time
 import json
 
-application = Flask(__name__)
+application = Flask(__name__, static_folder='static')
 
 
 # print(phrase_to_search);
